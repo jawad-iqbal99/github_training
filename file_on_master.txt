@@ -1,3 +1,7 @@
 file_on_master...
+<<<<<<< HEAD
 changes for master to new_2nd branch...
 making_changes_for_conflect
+=======
+changes for master to new_2nd branch
+>>>>>>> my_2nd_branch
